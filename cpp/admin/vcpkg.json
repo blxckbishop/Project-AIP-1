@@ -1,0 +1,12 @@
+{
+  "name": "admin7",
+  "version": "1.0",
+  "dependencies": [
+    "jwt-cpp",
+    "xlnt",
+    "nlohmann-json",
+    "cpp-httplib",
+    "openssl",
+    "boost"
+  ]
+}
